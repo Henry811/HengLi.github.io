@@ -10,7 +10,7 @@
       <p><b>TEL: (+86) 189-8606-3446</b></p >
     </td>
     <td width="25%">
-      < img src="/me.jpg" width="100%">
+      < img src="/lh.jpg" width="100%">
     </td>
   </tr>
 </table>
