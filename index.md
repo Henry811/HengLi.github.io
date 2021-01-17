@@ -1,3 +1,5 @@
+<p><b>Heng Li received the B.E. degree in Electronic and Information Engineering from Huazhong University of Science and Technology, China, in 2017. He is currently pursuing toward the Ph.D. degree at the same institution. His current research interests include artificial intelligence, information security, and image/signal processing.</b></p >
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -12,7 +14,6 @@
       < img src="/HengLi.jpg" width="100%">
     </td>
   </tr>
-      <p><b>Heng Li received the B.E. degree in Electronic and Information Engineering from Huazhong University of Science and Technology, China, in 2017. He is currently pursuing             toward the Ph.D. degree at the same institution. His current research interests include artificial intelligence, information security, and image/signal processing.</b></p >
+
   
-</tr>
 </table>
