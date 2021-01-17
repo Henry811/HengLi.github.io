@@ -11,7 +11,7 @@
       <p><b>TEL: (+86) 189-8606-3446</b></p >
     </td>
     <td width="25%">
-      < img src="./HengLi.jpg" width="100%">
+      < img src="/me.eps" width="100%">
     </td>
   </tr>
 </table>
